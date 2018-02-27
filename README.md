@@ -1,5 +1,7 @@
 # RoShanBot
 
+[Blog][blog]
+
 ## What is RoShanBot?
 RoShanBot is a machine learning program written in Python and using the [Tensorflow library][tf].
 It uses a camera to recognize hand positions and will essentially play a simple game of rock-paper-scissors.
@@ -17,3 +19,4 @@ RoShanBot is [MIT][mit]
 [tf]: https://www.tensorflow.org/
 [issues]: https://github.com/BaronVonWidget/RoShanBo/issues
 [mit]: https://mit-license.org
+[blog]: https://machinelearningreview.blogspot.com/
